@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a simple website made on the first day of class at Epicodus so that we would get more familiar with HTML
+_This is a simple website made on the first day of class at Epicodus so that we would get more familiar with HTML_
 
 ## Setup/Installation Requirements
 

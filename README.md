@@ -1,6 +1,6 @@
-# _{My First Webpage}_
+# _My First Webpage_
 
-#### _{The first webpage I made at Epicodus}, {04/18/2017}_
+#### _The first webpage I made at Epicodus, 04/18/2017_
 
 #### By _**{Buna Ezeofor & Jun Fritz}**_
 
